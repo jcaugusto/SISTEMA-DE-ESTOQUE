@@ -1,0 +1,3 @@
+ Sistema de estoque feito em java, o estoquista ao dar entrada no estoque com nomedo produto certo(COMPUTADOR) porem erra no valor do produto( digite qualquer valor aleatório) o sistema atualiza com valor correto.
+ depois, aparece uma mensagem perguntando "insira a quantidade de produtos a serem adicionados em estoque:", o estoquista poe a quantidade e o sistema vai exibir mensagem com: valor unitário, quantas unidades tem estoque e valor total em do computador.
+ no final aparece mensagem:"insira a quantidade de produtos a serem retirados do estoque:", simulando que ouve venda do prudoto, o sistema atualiza e diz quanto ficou no estoque. 
