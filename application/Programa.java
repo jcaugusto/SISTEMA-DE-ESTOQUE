@@ -15,10 +15,10 @@ public class Programa {
 	
 		System.out.println("insira os dados do produto: ");
 		System.out.print("Nome: ");
-		    String name = sc.nextLine();
+	  String name = sc.nextLine();
 		
-		System.out.print("Preço: ");
-		    double price = sc.nextDouble();
+	 	System.out.print("Preço: ");
+		 double price = sc.nextDouble();
 		 Product product = new Product(name, price);
 
 		// acessa e troca nome do produto
@@ -31,7 +31,7 @@ public class Programa {
 		
 		
 		System.out.println();
-        System.out.println("Dados atualizado: " + product);
+   System.out.println("Dados atualizado: " + product);
 
 		System.out.println();
 		System.out.println(" insira a quantidade de produtos a serem adicionados em estoque: ");
